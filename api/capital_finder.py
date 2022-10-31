@@ -5,6 +5,7 @@ import requests
 class handler(BaseHTTPRequestHandler):
 
   def do_GET(self):
+    '''A function that send request to vercel'''
     path = self.path
     url_components = parse.urlsplit(path)
     query_string_list = parse.parse_qsl(url_components.query)
