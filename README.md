@@ -3,7 +3,7 @@
 ## Author: Ihab Abbas
 
 
-#### Links and Resources
+#### Links
 
 
 * [The Deploy page](https://capital-finder-ihab-abbas-nxko3s5pr-ihababbas.vercel.app/)
