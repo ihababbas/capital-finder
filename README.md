@@ -1,4 +1,4 @@
-# LAB - Class 16
+# LAB - Class 13
 ## Project: Serverless Functions
 ## Author: Ihab Abbas
 
